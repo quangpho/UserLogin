@@ -1,0 +1,10 @@
+D:\Project\UserLogin\UserLogin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\UserLogin\UserLogin\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\UserLogin\UserLogin\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Project\UserLogin\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.exe
+D:\Project\UserLogin\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.csprojAssemblyReference.cache
+D:\Project\UserLogin\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.AssemblyInfoInputs.cache
+D:\Project\UserLogin\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.AssemblyInfo.cs
+D:\Project\UserLogin\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.RazorTargetAssemblyInfo.cache
+D:\Project\UserLogin\UserLogin\obj\Debug\netcoreapp3.1\staticwebassets\UserLogin.StaticWebAssets.Manifest.cache
+D:\Project\UserLogin\UserLogin\obj\Debug\netcoreapp3.1\staticwebassets\UserLogin.StaticWebAssets.xml
